@@ -1,5 +1,5 @@
 # CCD_ADMM Algorithm
-This is an optimization class. You can use this class to reduce the risk of your asset portfolio.
+This is an optimization class. You can use this class to reduce the risk of your asset portfolio by changing the weights of each asset.
 
 To apply this class, you need a df with signal of the history and one of today. 
 
